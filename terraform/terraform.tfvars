@@ -21,7 +21,7 @@ postgres_subnet_prefix = "10.0.16.0/24"
 
 # ----- AKS -----
 node_count     = 2
-node_min_count = 2
+node_min_count = 1
 node_max_count = 2
 vm_size        = "Standard_B2s_v2"
 
